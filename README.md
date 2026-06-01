@@ -9,10 +9,11 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales performan
 -Interactive Dashboard Design
 
 ##Key Features
-Total Sales Analysis (16.72K+ sales)
-Average Sales and Customer Rating Tracking
-Item Type Performance Analysis
-Outlet Location & Size Comparison
-Outlet Establishment Year Trends
-Fat Content Distribution Analysis
-Interactive Filters for Outlet Location, Size, and Item Type
+-Total Sales Analysis (16.72K+ sales)
+-Average Sales and Customer Rating Tracking
+-Item Type Performance Analysis
+-Outlet Location & Size Comparison
+-Outlet Establishment Year Trends
+-Fat Content Distribution Analysis
+-Interactive Filters for Outlet Location, Size, and Item Type
+
